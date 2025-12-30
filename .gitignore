@@ -1,0 +1,9 @@
+# Ignore compiled executables
+hcos
+mem
+*.o
+
+# Ignore logs and temporary data
+logs/
+Patients/
+patients.txt
